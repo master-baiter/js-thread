@@ -87,6 +87,8 @@
 - [node-center.ru](http://node-center.ru) - Ориентирован на Node.js, но мелькает материал и по Front-end. Сборник всей нужной информации, перевод официальной документации, список книг и ссылок.
 - [jstherightway.org](http://www.jstherightway.org/) - Огромный англоязычный гайд. Есть книги, статьи, список фреймворков и многое другое. По сути, этот текст - краткий аналог этого гайда.
 - [nodeguide.ru](http://nodeguide.ru) - Большое количество переведённых статей по Node.js
+- [www.reddit.com/r/javascript/](http://www.reddit.com/r/javascript/) - Реддит
+
 
 ## 3. Ютуб каналы
 ### 3.1. Блоги  
@@ -115,6 +117,7 @@
 - [Victor Zinchenko](https://www.youtube.com/user/TheLukesky1)
 - [WebMarik](https://www.youtube.com/user/jquerymobilerussia)
 - [Создание сайтов. Maxtop.org](https://www.youtube.com/user/InfobiznesMaxtop)
+- [frontender.info](http://frontender.info)
 
 ### 3.2. Конференции  
 - [404fest](https://www.youtube.com/user/404fest/featured)
@@ -151,6 +154,8 @@
 - [perfectionkills.com](http://perfectionkills.com/) - Perfection Kills
 - [reddit.com/r/javascript](http://www.reddit.com/r/javascript) - subreddit на reddit.com
 - [toddmotto.com](http://toddmotto.com/) - Todd Motto, Lead front-end @appsbroker. Developer Expert @google.
+- [www.smashingmagazine.com](http://www.smashingmagazine.com)
+- [modernweb.com](http://modernweb.com)
 
 ## 5. Онлайн курсы
 Изучая только теорию язык усваивается плохо. Наиболее важна практика, которую можно получить на онлайн-курсах.
